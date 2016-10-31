@@ -32,7 +32,7 @@ See Monti et al 2016
 A RAP objecti is returned where the regularization parameter and the estimated regression coefficients have been updated.
 }
 \references{
-Monti et al, "A framework for adaptive regularization in streaming Lasso models", 2016
+See Monti et al, "A framework for adaptive regularization in streaming Lasso models", 2016
 }
 \author{
 Ricardo Pio Monti

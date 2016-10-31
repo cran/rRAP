@@ -32,7 +32,7 @@ Boolean indicating whether exact or approximate gradient should be calculated wh
 }
 }
 \details{
-See Monti et al (2016)
+See Monti et al, "A framework for adaptive regularization in streaming Lasso models", 2016
 }
 \value{
 A RAP object is returned with the following elements:

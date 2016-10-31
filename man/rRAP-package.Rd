@@ -22,7 +22,7 @@ Ricardo Pio Monti
 Maintainer: Ricardo Pio Monti <ricardo.monti08@gmail.com>
 }
 \references{
-Monti et al, "A framework for adaptive regularization in streaming Lasso models", 2016
+See Monti et al, "A framework for adaptive regularization in streaming Lasso models", 2016
 }
 \keyword{ package }
 \seealso{
